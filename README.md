@@ -5,9 +5,8 @@ Tento sempre colaborar fortemente em tudo e me considero capaz de aprender rapid
 
 Ei bora tomar um cafezinho e falar um pouco sobre tecnologia e inovação? Chama aqui no probleminha que o Jhon Jhon tá on para você!
 <p align='center'>
-<a href="https://jainesenna.netlify.app/"><img height="32" src="https://github.com/jainesenna/jainesenna/blob/master/site.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jaine-senna/"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/jaine.senna/"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jhonataslaurentino/"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/jhonataslaurentino/"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 
 <!--
